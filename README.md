@@ -14,3 +14,5 @@ For example: print-diamond “C” prints
 
 I have included the java file
 You can run in IntelliJIDEA or Eclipse
+
+To quit the program type QUIT and hit enter
